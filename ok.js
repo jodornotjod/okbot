@@ -30,4 +30,4 @@ fs.readdir("./events/", (err, files) => {
 	};
 
 
-client.login('MzM3MzAxMjI3NzY1NDk3ODU2.DFE8Aw.Rfqq3UmCWkz5crFOPrLFV0Za_PY');
+client.login('token');
